@@ -14,6 +14,29 @@
   width: 25vw;
   margin-left: calc(75vw/2);
 }
+.Purple{
+  background-color: purple !important;
+ }
+.Green{
+  background-color: limegreen !important;
+}
+
+.Yellow{
+   background-color: yellow !important;
+ }
+.Cyan{
+  background-color: Cyan !important;
+}
+.Orange{
+  background-color: orange !important;
+}
+.Blue{
+  background-color: blue !important;
+}
+.Red{
+  background-color: red !important;
+}
+
 .InternalSquare{
   outline:2px solid black;
   min-height: 100%;
